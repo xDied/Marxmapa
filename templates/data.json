@@ -1,0 +1,23 @@
+{
+  "Marxzone": {
+    "name": "marxzone.png",
+    "x": 1221,
+    "y": -645,
+    "width": 140,
+    "height": 153
+   },
+  "arflag": {
+    "name": "arflag.png",
+    "x": 2328,
+    "y": -1238,
+    "width": 345,
+    "height": 244
+   },
+  "template3": {
+    "name": "image.png",
+    "x": 862,
+    "y": -505,
+    "width": 327,
+    "height": 217
+  }
+}
