@@ -13,12 +13,12 @@
     "width": 234,
     "height": 165
    },
-    "template1": {
-    "name": "template1.png",
-    "x": 2672,
-    "y": -1152,
-    "width": 371,
-    "height": 145
+    "cyan": {
+    "name": "cyan.png",
+    "x": 1869,
+    "y": 3912,
+    "width": 90,
+    "height": 91
   },
   "t2": {
     "name": "t2.png",
