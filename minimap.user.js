@@ -6,9 +6,9 @@
 // @author       MARX#8547
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/Marxarg/Mapzone/
-// @updateURL    https://raw.githubusercontent.com/marxarg/Mapzone/blob/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/marxarg/Mapzone/blob/master/minimap.user.js
+// @homepage     https://github.com/Marxarg/Marxmapa/
+// @updateURL    https://raw.githubusercontent.com/marxarg/Marxmapa/blob/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/marxarg/Marxmapa/blob/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Marxarg/MapZone/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Marxarg/Marxmapa/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
