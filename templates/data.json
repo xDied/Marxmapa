@@ -6,32 +6,74 @@
     "width": 363,
     "height": 289
    },
-  "arflag": {
-    "name": "arflag.png",
+    "argt": {
+    "name": "argt.png",
+    "x":  1141,
+    "y": -28,
+    "width": 234,
+    "height": 165
+   },
+    "template1": {
+    "name": "template1.png",
+    "x": 2672,
+    "y": -1152,
+    "width": 371,
+    "height": 145
+  },
+  "t2": {
+    "name": "t2.png",
     "x": 2328,
     "y": -1238,
     "width": 345,
     "height": 244
    },
-  "template3": {
-    "name": "image.png",
+    "t3": {
+    "name": "t3.png",
+    "x": 701,
+    "y": -224,
+    "width": 440,
+    "height": 384
+   },
+    "sanliturk": {
+    "name": "sanliturk.png",
+    "x": -4096,
+    "y": 3295,
+    "width": 1307,
+    "height": 802
+   },
+    "nemutlu": {
+    "name": "nemutlu.png",
+    "x": -3572,
+    "y":  3270,
+    "width": 256,
+    "height": 24
+   },
+      "AlsancakPlan": {
+    "name": "AlsancakPlan.png",
+    "x": 71,
+    "y": -3814,
+    "width": 273,
+    "height": 155
+   },
+      "TRzoneAilesi": {
+    "name": "TRzoneAilesi.png",
+    "x": -4096,
+    "y": 3220,
+    "width": 522,
+    "height": 75
+   },
+      "TurkiyeKalkan": {
+    "name": "TurkiyeKalkan.png",
+    "x": -3338,
+    "y": 3044,
+    "width": 105,
+    "height": 132
+   },
+  "CentralTurkeyFlag": {
+    "name": "CentralTurkeyFlag.png",
     "x": 862,
     "y": -505,
     "width": 327,
     "height": 217
-  },
-  "bulgaflag": {
-    "name": "bulgaflag.png",
-	"x": -2387,
-	"y": 2469,
-	"width": 185,
-	"height": 119
-  },
-  "argt": {
-    "name": "argt.png",
- 	"x": 1141,
-	"y: -28,
-	"width": 234,
-	"height": 165
   }
 }
