@@ -13,11 +13,11 @@
     "width": 345,
     "height": 244
    },
-  "template3": {
-    "name": "image.png",
-    "x": 862,
-    "y": -505,
-    "width": 327,
-    "height": 217
+  "odn": {
+    "name": "odn.png",
+    "x": 1978,
+    "y": 3912,
+    "width": 117,
+    "height": 113
   }
 }
