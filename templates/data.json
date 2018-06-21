@@ -20,12 +20,12 @@
     "width": 90,
     "height": 91
   },
-  "t2": {
-    "name": "t2.png",
-    "x": 2328,
-    "y": -1238,
-    "width": 345,
-    "height": 244
+  "pixelzone": {
+    "name": "pixelzone.png",
+    "x": 897,
+    "y": 248,
+    "width": 157,
+    "height": 157
    },
     "t3": {
     "name": "t3.png",
