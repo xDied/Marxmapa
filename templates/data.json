@@ -34,12 +34,12 @@
     "width": 100,
     "height": 231
    },
-    "sanliturk": {
-    "name": "sanliturk.png",
-    "x": -4096,
-    "y": 3295,
-    "width": 1307,
-    "height": 802
+    "odn": {
+    "name": "odn.png",
+    "x": 1869,
+    "y": 3912,
+    "width": 101,
+    "height": 92
    },
     "nemutlu": {
     "name": "nemutlu.png",
