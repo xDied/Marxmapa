@@ -48,12 +48,12 @@
     "width": 125,
     "height": 154
    },
-      "AlsancakPlan": {
-    "name": "AlsancakPlan.png",
-    "x": 71,
-    "y": -3814,
-    "width": 273,
-    "height": 155
+      "pitufo": {
+    "name": "pitufo.png",
+    "x": 1484,
+    "y": 1866,
+    "width": 63,
+    "height": 36
    },
       "TRzoneAilesi": {
     "name": "TRzoneAilesi.png",
