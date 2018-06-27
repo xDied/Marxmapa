@@ -55,12 +55,12 @@
     "width": 63,
     "height": 36
    },
-      "TRzoneAilesi": {
-    "name": "TRzoneAilesi.png",
-    "x": -4096,
-    "y": 3220,
-    "width": 522,
-    "height": 75
+      "cyanzone": {
+    "name": "cyanzone.png",
+    "x": 867,
+    "y": 3653,
+    "width": 72,
+    "height": 68
    },
       "TurkiyeKalkan": {
     "name": "TurkiyeKalkan.png",
