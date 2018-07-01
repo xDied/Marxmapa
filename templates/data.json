@@ -69,11 +69,11 @@
     "width": 87,
     "height": 15
    },
-  "CentralTurkeyFlag": {
-    "name": "CentralTurkeyFlag.png",
-    "x": 862,
-    "y": -505,
-    "width": 327,
-    "height": 217
+  "abysszone": {
+    "name": "abysszone.png",
+    "x": 3273,
+    "y": 1202,
+    "width": 141,
+    "height": 191
   }
 }
